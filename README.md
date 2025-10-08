@@ -16,8 +16,10 @@
 Full-stack project built with **React + Spring Boot**  
 - Responsive adaptive UI  
 - Handles **1,000+ concurrent requests**  
-- Practiced TDD and clear API documentation  
-🔗 [Frontend](https://github.com/FedorDevelopmer/Practice_Modsen_Frontend) • [Backend](https://github.com/FedorDevelopmer/Practice_Modsen_Backend)
+- Practiced TDD and clear API documentation
+
+🔗 [Frontend](https://github.com/FedorDevelopmer/Practice_Modsen_Frontend) | [Backend](https://github.com/FedorDevelopmer/Practice_Modsen_Backend)
+
 
 ---
 
@@ -26,29 +28,45 @@ Java backend project with **Spring Boot** and **PostgreSQL**
 - 15+ microservices for ride, driver & passenger management  
 - Integrated **ELK**, **Grafana**, **Prometheus** for monitoring  
 - Implemented **TDD**, **CI/CD**, and layered testing  
-🔗 [Repository](#)
+
+🔗 [Backend](https://github.com/FedorDevelopmer/Modsen_Cab_Aggregator)
 
 ---
 
-#### 🧩 Modsen Test Management System (MTMS)
+#### 🛠️ Test Management System (TMS)
 System analyst role in a **multi-client commercial project**  
 - Designed **UML/ERD models** and **Jira integration docs**  
 - Improved **database model** and **role-based access**  
 - Delivered a **vision-level document** for future extensions  
-🔗 [Documentation](#)
 
 ---
 
 ### 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,postgresql,docker,git,linux,js,html,css,gradle,maven,postman,idea,figma" />
+#### 🧩 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgresql,gradle,maven" />
+</p>
+
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
+
+#### ⚙️ DevOps & Monitoring
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,elasticsearch,prometheus" />
+</p>
+
+#### 🧠 Tools & Collaboration
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,idea" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=FedorDevelopmer&show_icons=true&theme=tokyonight" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedorDevelopmer&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
