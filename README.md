@@ -26,7 +26,7 @@ Java backend project with **Spring Boot** and **PostgreSQL**
 - 15+ microservices for ride, driver & passenger management  
 - Integrated **ELK**, **Grafana**, **Prometheus** for monitoring  
 - Implemented **TDD**, **CI/CD**, and layered testing  
-🔗 [Repository](#) <!-- добавишь ссылку -->
+🔗 [Repository](#)
 
 ---
 
@@ -39,11 +39,11 @@ System analyst role in a **multi-client commercial project**
 
 ---
 
-### 🛠️ Tech Stack
-**Backend:** Java (Spring Boot, Spring Security, JPA, Hibernate)  
-**Frontend:** React, JavaScript  
-**DevOps:** Docker, ELK, Grafana, Prometheus, CI/CD  
-**Tools:** Confluence, Miro, ClickUp, UML 2.0, ERD  
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,postgresql,docker,git,linux,js,html,css,gradle,maven,postman,idea,figma" />
+</p>
 
 ---
 
@@ -51,6 +51,18 @@ System analyst role in a **multi-client commercial project**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FedorDevelopmer&show_icons=true&theme=tokyonight" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedorDevelopmer&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+---
+
+### 🧩 Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/XPXKqSAroS?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://www.codewars.com/users/FedorDeveloper/badges/large" alt="Codewars badge" />
 </p>
 
 ---
