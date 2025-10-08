@@ -75,19 +75,18 @@ System analyst role in a **multi-client commercial project**
 
 ### 🧩 Problem Solving
 
-<p align="center">
+<p align="left">
   <img src="https://leetcard.jacoblin.cool/XPXKqSAroS?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://www.codewars.com/users/FedorDeveloper/badges/large" alt="Codewars badge" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
+<p align="left">
   <a href="mailto:fedor.sap@gmail.com"><img src="https://img.shields.io/badge/Email-fedor.sap@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://linkedin.com/in/fedordev"><img src="https://img.shields.io/badge/LinkedIn-fedordev-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/FedorDevelopmer"><img src="https://img.shields.io/badge/GitHub-FedorDevelopmer-black?style=flat-square&logo=github"></a>
 </p>
