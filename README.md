@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fyodor Saprankov</h1>
 <h3 align="center">Full-Stack Java Developer | System Analyst | Tech Enthusiast</h3>
 
+---
 
   ### 📄 My CVs
   <div align="left" style="border: 2px solid #4A90E2; padding: 15px; border-radius: 10px; margin: 20px 0; background-color: #f0f4ff;">
